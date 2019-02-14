@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "yeni",
+"dataUrl": "Artila_MouseKontrol_1.0.1.data.unityweb",
+"asmCodeUrl": "Artila_MouseKontrol_1.0.1.asm.code.unityweb",
+"asmMemoryUrl": "Artila_MouseKontrol_1.0.1.asm.memory.unityweb",
+"asmFrameworkUrl": "Artila_MouseKontrol_1.0.1.asm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
